@@ -27,3 +27,11 @@ For installing the application and make modifications use:
 
 `pip install --editable .
 `
+
+## :pushpin: Usefull commands. 
+
+`wich pv
+`
+
+`pv --help
+`
