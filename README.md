@@ -35,3 +35,8 @@ For installing the application and make modifications use:
 
 `pv --help
 `
+
+`tree -I '__pycache__|*.egg-info|venv_name'
+`
+
+
