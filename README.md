@@ -39,4 +39,5 @@ For installing the application and make modifications use:
 `tree -I '__pycache__|*.egg-info|venv_name'
 `
 
+`cat .clients.csv`
 
